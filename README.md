@@ -64,7 +64,6 @@ Content cell |Content cell
 Content cell |Content cell
 ```
 
-
 `code()`
 
     Markup: `code()`
@@ -98,17 +97,13 @@ Content cell |Content cell
     2. Which is numbered.
 2. Which is numbered
 
-
 - [ ] An uncompleted task
 - [x] A completed task
-
 
 > Blockquote
 >> Nested blockquote
 
-
 Foldable text
-
 
 <details>
     <summary>Title 1</summary>
@@ -118,3 +113,47 @@ Foldable text
     <summary>Title 2</summary>
     <p> Content 2 Content 2 Content 2 Content 2 Content 2</p>
 </details>
+
+```html
+<h3>HTML<h3>
+<p> Some HTML code here </p>
+```
+
+Link to specific part of the page
+
+[Go to Top](#Top)
+
+Hotkey:
+
+<kbd>⌘F</kbd>
+
+<kbd>⇧⌘F</kbd>
+
+    Markup: <kbd>⌘F</kbd>
+
+Hotkey list:
+
+|Key|Symbol|
+|-|-|
+|Option|⌥|
+|Control|^|
+|Command|⌘|
+|Shift|⇧|
+|Caps Lock|⇪|
+|Tab|⇥|
+|Esc|⎋|
+|Power|⌽|
+|Return|⏎|
+|Delete|⌫|
+|Up|↑|
+|Down|↓|
+|Left|←|
+|Right|→|
+
+Emoji:
+
+:exclaimation: Use emoji icons to enhance text. :+1: Look up emoji codes at [emoji-cheat-sheet.com]("http://emoji-cheat-sheet.com/")
+
+    Markup: Code appears between colors :EMOJICODE:
+
+:mask:
