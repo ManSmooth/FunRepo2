@@ -152,7 +152,7 @@ Hotkey list:
 
 Emoji:
 
-:exclaimation: Use emoji icons to enhance text. :+1: Look up emoji codes at [emoji-cheat-sheet.com]("http://emoji-cheat-sheet.com/")
+:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at [emoji-cheat-sheet.com]("http://emoji-cheat-sheet.com/")
 
     Markup: Code appears between colors :EMOJICODE:
 
